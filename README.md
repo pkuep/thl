@@ -1,1 +1,1 @@
-# Code 
+# Code zu "Entwicklung von LLM-basierten Ansätzen zur Automatisierung und Auswertung von Geschäftsprozessen"
